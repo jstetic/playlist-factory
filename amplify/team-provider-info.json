@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-playlist-factory-prod-192939-authRole",
+            "UnauthRoleArn": "arn:aws:iam::547541237977:role/amplify-playlist-factory-prod-192939-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::547541237977:role/amplify-playlist-factory-prod-192939-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-playlist-factory-prod-192939-deployment",
+            "UnauthRoleName": "amplify-playlist-factory-prod-192939-unauthRole",
+            "StackName": "amplify-playlist-factory-prod-192939",
+            "StackId": "arn:aws:cloudformation:us-east-1:547541237977:stack/amplify-playlist-factory-prod-192939/7ab31690-81cc-11ea-9960-1246411399d1",
+            "AmplifyAppId": "d2dpa9t19qb8ut"
+        }
+    }
+}

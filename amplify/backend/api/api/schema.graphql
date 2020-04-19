@@ -1,0 +1,11 @@
+type Todo @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type SongChart @model {
+  id: ID!
+  name: String!
+  description: String
+}
